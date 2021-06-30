@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styling.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        .form__group {
+          position: relative;
+          padding: 15px 0 0;
+          margin-top: 1px;
+          width: 50%;
+        }
+        
+        .form__field {
+          font-family: inherit;
+          width: 250px;
+          border: 0;
+          border-bottom: 2px solid  #9b9b9b;
+          outline: 0;
+          font-size: 10px;
+          color: #fff;
+          padding: 7px 0;
+          background: transparent;
+          transition: border-color 0.2s;
+        
+         
+        }
+        
+        .form__label {
+          position: absolute;
+          top: 0;
+          display: block;
+          transition: 0.2s;
+          font-size: 1rem;
+          color: #9b9b9b;
+        }
+        .form__label {
+            position: absolute;
+            top: 0;
+            display: block;
+            transition: 0.2s;
+            font-size: 1rem;
+            color: #11998e;
+            font-weight:700;    
+          }
+        
+        .form__field:focus {
+          
+          padding-bottom: 6px;  
+          font-weight: 700;
+          border-width: 3px;
+          border-image-slice: 1;
+        }
+        /* reset input */
+        /* demo */
+        .footer{
+          margin-top: 144px;
+        }
+       </style>
+</head>
+<body>
+    <a href="#" id="nothing1"><img id="close" src="https://img.icons8.com/ios-glyphs/480/ffffff/delete-sign.png"/></a>
+        <div class="form__group field">
+            <input type="input" class="form__field" placeholder="To Dos" name="name" autocomplete="off" id='name' required />
+          </div>
+    
+<div class="footer">© 2020 Copyright: Akash Lenka</div>
+<script src="new_ToDo.js"></script>
+</body>
+</html>
