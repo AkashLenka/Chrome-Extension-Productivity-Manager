@@ -4,4 +4,4 @@ Productivity Managament Chrome Extension built using JavaScript, CSS and HTML.
 
 **Sample Image of the extension:**
 
-![image](https://user-images.githubusercontent.com/78587230/123884411-cfbc9180-d968-11eb-900f-995fe7f910bb.png)
+![image](https://user-images.githubusercontent.com/78587230/123885113-5a51c080-d96a-11eb-99ac-51b6f2db2a87.png)
