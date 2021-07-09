@@ -49,11 +49,13 @@ After the timer becomes you get a notification(alarm feature) that your time is 
 <br/>
 You can see a custom made notification popup at the bottom right of the screen.
 <br/>
+
 ![image](https://user-images.githubusercontent.com/78587230/125008603-70553480-e080-11eb-8645-796f5cecaf8b.png)
 
 **Blocking all URLs:**
 <br/>
 You can see that these pages and other pages(which are grey now) have become inactive, as being blocked by the extension:
 <br/>
+
 ![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
 
