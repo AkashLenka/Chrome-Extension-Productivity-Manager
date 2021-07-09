@@ -1,6 +1,6 @@
 # Chrome-Extension-Productivity-Manager
 
-This is a Productivity Managament Chrome Extension.
+This is a Productivity Managament Chrome Extension build under the Coding Club IITG.
 It's built using the following application and languages:
 
   1. Front-End: JavaScript , HTML and CSS.
