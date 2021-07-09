@@ -20,14 +20,17 @@ It contains the following features:
 <br/>
 On clicking the home icon you would be redirected to a HTML web page where you can send your email to contact the creators.
 <br/>
+
 ![image](https://user-images.githubusercontent.com/78587230/125007232-6bdb4c80-e07d-11eb-8bcc-87bc3cf25175.png)
 
 **ToDo List:**<br/>
 
 On clicking the ToDo list you can find your task.<br/>
-Some features includes:<br/>
+Some features includes:
+<br/>
   1. **All-Task:** It shows you all the completed and the active task you have.
   2. **Active-Task:** These task are usually plain and darker than the completed one to hightlight it well.
   3. **Completed-Task:** These task are usually denoted with tick mark and striked off.
   4. The ToDo part also shows you the amount of task remaining and you can clear them off at once by clicking on **Clear Completed**.
+<br/>
 ![image](https://user-images.githubusercontent.com/78587230/125007738-8b26a980-e07e-11eb-9799-2fcd94df7e43.png)
