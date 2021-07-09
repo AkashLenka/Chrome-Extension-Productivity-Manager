@@ -76,6 +76,7 @@ Features include:<br/>
 ![image](https://user-images.githubusercontent.com/78587230/125009722-b7dcc000-e082-11eb-8f90-6ebbaff6cf23.png)
 
 **Listed in Blacklisted URL:**
+
 ![image](https://user-images.githubusercontent.com/78587230/125009861-ff634c00-e082-11eb-802d-11c53cc2d493.png)<br/>
 You can check yourself that codeforces is also blocked by the change in icon. 
 <br/>
