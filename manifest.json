@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Background Changer",
+    "name": "Productivity Manager",
     "version": "1.0.0",
-    "description": "Does stuff with the background.",
+    "description": "Increases productivity exponentially!!",
     "content_scripts":[
       {
         "matches":["<all_urls>"],
@@ -15,7 +15,8 @@
     },
     "background":{
       "scripts":["background.js"],
-      "persistent": false
+      "persistent": true
     },
-    "permissions": ["scripting", "tabs", "activeTab","alarms","storage"]
+    "permissions": ["scripting", "tabs", "activeTab","alarms","storage","webRequest",
+      "<all_urls>","webRequestBlocking","notifications"]
   }

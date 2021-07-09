@@ -29,3 +29,22 @@ const date=new Date();
 }
 showTime();
 
+
+// var options={
+//     type: "image",
+//     title: "Productivity Manager",
+//     message: "Please complete you work you have more 5 minites",
+//     iconUrl: "https://analyticsindiamag.com/wp-content/uploads/2020/10/7d744a684fe03ebc7e8de545f97739dd.jpg",
+//     imageUrl: "https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"  
+// }
+  
+// const hery=document.getElementById("notify");
+// hery.addEventListener('click',()=>{
+//       chrome.notifications.create("daech", options, ()=>{console.log("created")});
+// });
+
+// chrome.notifications.onButtonClicked.addListener(replyBtnClick);
+// function replyBtnClick()
+// {
+//   console.log("termiates");
+// }
