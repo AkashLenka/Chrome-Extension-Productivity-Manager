@@ -45,17 +45,17 @@ On clicking the work timer you come up to this page where you can set the time o
 After setting up the timer the timer countdowns to zero until ur browser is open, since it runs on the **background.js**.<br/>
 After the timer becomes you get a notification(alarm feature) that your time is up and locks up your entire browser thus not allowing you to use anything.
 
-**Notification:**
+  **Notification:**
 <br/>
-You can see a custom made notification popup at the bottom right of the screen.
-<br/>
-
-![image](https://user-images.githubusercontent.com/78587230/125008603-70553480-e080-11eb-8645-796f5cecaf8b.png)
-
-**Blocking all URLs:**
-<br/>
-You can see that these pages and other pages(which are grey now) have become inactive, as being blocked by the extension:
+  You can see a custom made notification popup at the bottom right of the screen.
 <br/>
 
-![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
+  ![image](https://user-images.githubusercontent.com/78587230/125008603-70553480-e080-11eb-8645-796f5cecaf8b.png)
+
+  **Blocking all URLs:**
+<br/>
+  You can see that these pages and other pages(which are grey now) have become inactive, as being blocked by the extension:
+<br/>
+
+  ![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
 
