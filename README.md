@@ -4,7 +4,7 @@ This is a Productivity Managament Chrome Extension build under the Coding Club I
 It's built using the following application and languages:
 
   1. **Front-End:** JavaScript , HTML and CSS.
-  2. **** Database:**** Chrome(using its local storage API).
+  2. **Database:** Chrome(using its local storage API).
 
 **Main Popup Menu:**
 
