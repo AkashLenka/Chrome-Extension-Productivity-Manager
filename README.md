@@ -33,4 +33,5 @@ Some features includes:
   3. **Completed-Task:** These task are usually denoted with tick mark and striked off.
   4. The ToDo part also shows you the amount of task remaining and you can clear them off at once by clicking on **Clear Completed**.
 <br/>
+
 ![image](https://user-images.githubusercontent.com/78587230/125007738-8b26a980-e07e-11eb-9799-2fcd94df7e43.png)
