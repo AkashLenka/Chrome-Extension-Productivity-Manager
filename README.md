@@ -1,4 +1,4 @@
-# Chrome-Extension-Task-1
+# Chrome-Extension-Productivity-Manager
 
 Productivity Managament Chrome Extension built using JavaScript, CSS and HTML.
 
