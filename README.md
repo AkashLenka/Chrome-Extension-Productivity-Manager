@@ -81,3 +81,8 @@ Features include:<br/>
 You can check yourself that codeforces is also blocked by the change in icon. 
 <br/>
 As you can see in the images above that other websites are working fine but the CF and CC site alone are blocked.
+<br/>
+
+<p align="center"> 
+  ****Hope you loved my project :)****
+</p>
