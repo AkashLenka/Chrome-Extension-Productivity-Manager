@@ -39,6 +39,9 @@ Some features includes:
 **Work Timer:**<br/>
 <br/>
 On clicking the work timer you come up to this page where you can set the time of your work in minutes:
+Features included:
+  1.**Notification alarm:** Sends you a notifcation when time is completed.<br/>
+  2.**Blocking URLs:** User may no longer be able to access any website until time is set again.<br/>
 
 ![image](https://user-images.githubusercontent.com/78587230/125008027-3df70780-e07f-11eb-801f-e643bbca6434.png)
 
