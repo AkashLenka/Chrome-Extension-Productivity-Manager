@@ -60,7 +60,7 @@ After the timer becomes you get a notification(alarm feature) that your time is 
   You can see that these pages and other pages(which are grey now) have become inactive, as being blocked by the extension:
 <br/>
 
-  ![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
+![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
 
 **Blacklist URLs:**
 <br/>
@@ -68,7 +68,7 @@ This contains a list of blacklisted URLs by the user which wont be accessible to
 Features include:<br/>
   1. **Add URL:** You can add URL to be blocked.
   2. **Remove URL(Close button near the URL):** You can remove them from being blocked.
-  3.  All data is basically being stored in an array in **background.js** file which when interacting with **new_Black.js** file allows for all these commands.
+  3.  All data is basically being stored in an array in **background.js** file which when interacting with **new_Black.js** file allows for all these commands.<br/>
 **Unlisted in Blacklist URL:**
 ![image](https://user-images.githubusercontent.com/78587230/125009722-b7dcc000-e082-11eb-8f90-6ebbaff6cf23.png)
 
