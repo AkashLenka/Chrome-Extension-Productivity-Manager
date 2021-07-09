@@ -69,6 +69,11 @@ Features include:<br/>
   1. **Add URL:** You can add URL to be blocked.
   2. **Remove URL(Close button near the URL):** You can remove them from being blocked.
   3.  All data is basically being stored in an array in **background.js** file which when interacting with **new_Black.js** file allows for all these commands.
-
+**Unlisted in Blacklist URL:**
 ![image](https://user-images.githubusercontent.com/78587230/125009722-b7dcc000-e082-11eb-8f90-6ebbaff6cf23.png)
 
+**Listed in Blacklisted URL:**
+![image](https://user-images.githubusercontent.com/78587230/125009861-ff634c00-e082-11eb-802d-11c53cc2d493.png)<br/>
+You can check yourself that codeforces is also blocked by the change in icon. 
+<br/>
+As you can see in the images above that other websites are working fine but the CF and CC site alone are blocked.
