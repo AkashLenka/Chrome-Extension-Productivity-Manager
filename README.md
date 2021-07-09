@@ -38,8 +38,8 @@ Some features includes:
 
 **Work Timer:**<br/>
 <br/>
-On clicking the work timer you come up to this page where you can set the time of your work in minutes:
-Features included:
+On clicking the work timer you come up to this page where you can set the time of your work in minutes:<br/>
+Features included:<br/>
   1.**Notification alarm:** Sends you a notifcation when time is completed.<br/>
   2.**Blocking URLs:** User may no longer be able to access any website until time is set again.<br/>
 
@@ -61,4 +61,14 @@ After the timer becomes you get a notification(alarm feature) that your time is 
 <br/>
 
   ![image](https://user-images.githubusercontent.com/78587230/125008770-d5108f00-e080-11eb-8203-dad1dcd7b372.png)
+
+**Blacklist URLs:**
+<br/>
+This contains a list of blacklisted URLs by the user which wont be accessible to them and other websites run smoothly without interuption.<br/>
+Features include:<br/>
+  1. **Add URL:** You can add URL to be blocked.
+  2. **Remove URL(Close button near the URL):** You can remove them from being blocked.
+  3.  All data is basically being stored in an array in **background.js** file which when interacting with **new_Black.js** file allows for all these commands.
+
+![image](https://user-images.githubusercontent.com/78587230/125009722-b7dcc000-e082-11eb-8f90-6ebbaff6cf23.png)
 
