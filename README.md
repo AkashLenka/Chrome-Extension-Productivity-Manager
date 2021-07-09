@@ -70,6 +70,7 @@ Features include:<br/>
   2. **Remove URL(Close button near the URL):** You can remove them from being blocked.
   3.  All data is basically being stored in an array in **background.js** file which when interacting with **new_Black.js** file allows for all these commands.<br/>
 <br/>
+
 **Unlisted in Blacklist URL:**
 
 ![image](https://user-images.githubusercontent.com/78587230/125009722-b7dcc000-e082-11eb-8f90-6ebbaff6cf23.png)
