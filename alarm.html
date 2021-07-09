@@ -5,15 +5,129 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/styling.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        body{
+    width:500px;
+    height:300px;
+  text-align: center;
+  background: #00ECB9;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+h1{
+  color: #396;
+  font-weight: 100;
+  font-size: 40px;
+  margin: 40px 0px 20px;
+}
+
+#clockdiv{
+  font-family: sans-serif;
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+#clockdiv > div{
+  padding: 10px;
+  border-radius: 3px;
+  background: #00BF96;
+  display: inline-block;
+}
+
+#clockdiv div > span{
+  padding: 15px;
+  border-radius: 3px;
+  background: #00816A;
+  display: inline-block;
+}
+
+.smalltext{
+  padding-top: 5px;
+  font-size: 16px;
+}
+#wire{
+    position: absolute;
+  bottom: 10px;
+  left: 170px;
+}
+
+button {
+  padding: 7px 15px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #ffff00;
+}
+/* common styles end */
+
+/* form */
+.form {
+  margin: 30px 0px 20px 0px;
+}
+
+.time-input {
+  padding: 10px 7px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+select[name='format'] {
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  margin: 0px 10px;
+  background-color: #00ff44;
+}
+
+.set-btn {
+  background-color: #00ff44;
+}
+        </style>
 </head>
 <body>
-    <a href="#" id="nothing2"><img id="close" src="https://img.icons8.com/ios-glyphs/480/ffffff/delete-sign.png"/></a>
-    <div id="clock">
-       <a href="#"><img src="pic/alarm.png" id="closer"></a>
-    </div>
-<div class="footer">© 2020 Copyright: Akash Lenka</div>
+    <h1>Work Timer</h1>
+    <form class="form" id="huy">
+        <!-- countdown time input field -->
+        <input type="number" min="1" class="time-input" placeholder="Enter Countdown"  id="min">
+        <!-- options -->
+        <select name="format">
+          
+          <option value="minutes">Minutes</option>
+         
+        </select>
+        <!-- submit button or set button -->
+        <button type="submit" class="set-btn" id="bty">SET</button>
+      </form>
+<div id="clockdiv">
+   
+  <div>
+    <span class="days">0</span>
+    <div class="smalltext">Days</div>
+  </div>
+  <div>
+    <span class="hours">0</span>
+    <div class="smalltext">Hours</div>
+  </div>
+  <div>
+    <span class="minutes">00</span>
+    <div class="smalltext">Minutes</div>
+  </div>
+  <div>
+    <span class="seconds">00</span>
+    <div class="smalltext">Seconds</div>
+  </div>
+</div>
+<footer id="wire">© 2020 Copyright: Akash Lenka</footer>
 <script src="new_alarm.js"></script>
 </body>
 </html>
