@@ -14,3 +14,7 @@ It contains the following features:
   4. **Blacklist URLs:** It basically contains a list of blacklisted URLs.
 
 ![image](https://user-images.githubusercontent.com/78587230/125006411-b22fac00-e07b-11eb-8e26-41d737c832c2.png)
+
+**Home Page:**
+On clicking the home icon you would be redirected to a HTML web page where you can send your email to contact the creators.
+![image](https://user-images.githubusercontent.com/78587230/125007232-6bdb4c80-e07d-11eb-8bcc-87bc3cf25175.png)
