@@ -35,3 +35,14 @@ Some features includes:
 <br/>
 
 ![image](https://user-images.githubusercontent.com/78587230/125007738-8b26a980-e07e-11eb-9799-2fcd94df7e43.png)
+
+**Work Timer:**<br/>
+<br/>
+On clicking the work timer you come up to this page where you can set the time of your work in minutes:
+
+![image](https://user-images.githubusercontent.com/78587230/125008027-3df70780-e07f-11eb-801f-e643bbca6434.png)
+
+After setting up the timer the timer countdowns to zero until ur browser is open, since it runs on the **background.js**.<br/>
+After the timer becomes you get a notification(alarm feature) that your time is up and locks up your entire browser thus not allowing you to use anything.
+
+**Notification:**
